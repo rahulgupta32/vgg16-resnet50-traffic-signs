@@ -27,9 +27,13 @@ Internal Model Structure:
 
 
 The Evaluation Metrices:
+
 Accuracy Curve: ![accuracy_curve](https://github.com/user-attachments/assets/6e9b6717-76c4-41d9-ba94-c5e149a45c04)
+
 Loss Curve: ![loss_curve](https://github.com/user-attachments/assets/e8cd10eb-4643-4bfc-bdd9-0153cb35ac16)
+
 Confusion Matrix: ![confusion_matrix](https://github.com/user-attachments/assets/fac131b0-d5e0-417e-88d2-3d61c29de524)
+
 ROC Curve: ![roc_curve](https://github.com/user-attachments/assets/7f6f788c-f472-4af6-9777-9ebee965fdc0)
 
 
